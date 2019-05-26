@@ -1,24 +1,39 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# API Collective Items
+REST API to manage collective items for Admios H]hiring process
 
-Things you may want to cover:
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-* Ruby version
+### Installation
 
-* System dependencies
+This project requires [Ruby](https://www.ruby-lang.org) v2.3.8+ to run.
 
-* Configuration
+Install the dependencies and devDependencies and start the server.
 
-* Database creation
+```sh
+$ bundle install
+$ bundle exec rails db:create
+$ bundle exec rails db:migrate
+```
 
-* Database initialization
+To run the server...
 
-* How to run the test suite
+```sh
+$ bundle exec rails s
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+### Test API online
 
-* Deployment instructions
 
-* ...
+### Documentation
+
+
+### License
+----
+
+**GNU GENERAL PUBLIC LICENSE**
+Version 3, 29 June 2007
+
+## Developer
+Eng. Johnmer Bencomo
+may, 2019

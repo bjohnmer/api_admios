@@ -10,7 +10,6 @@ RSpec.describe ItemsController, type: :routing do
       expect(get: category_item_path(1,1)).to route_to(controller: 'items', action: 'show', category_id: '1', id: '1')
     end
 
-
     it "routes to #create" do
       expect(post: category_items_path(1)).to route_to(controller: 'items', action: 'create', category_id: '1')
     end
