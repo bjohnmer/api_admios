@@ -29,6 +29,14 @@ https://api-admios.herokuapp.com/
 ### Documentation
 https://documenter.getpostman.com/view/1882237/S1TR6LeX?version=latest
 
+### TODO
+  * Validating Category name uniqueness
+  * Serialize response
+  * Return better messages
+  * User authentication
+  * API Token based permissions
+  * Front-end Landing Page
+
 ### License
 ----
 
