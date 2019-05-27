@@ -1,6 +1,5 @@
 
 # API Collective Items
-[![Build Status](https://travis-ci.org/bjohnmer/api_admios.svg?branch=master)](https://travis-ci.org/bjohnmer/api_admios)
 REST API to manage collective items for Admios hiring process
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
